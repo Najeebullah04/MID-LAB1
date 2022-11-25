@@ -1,0 +1,73 @@
+.form{
+  display: block;
+ padding: 10px;
+ margin-left: 30px;
+ color: aliceblue;
+}
+
+.navbar{
+  background-color: #5ba5dd;
+ 
+  
+}
+.d-flex{
+    margin-left: -50px;
+}
+.left-Sider{
+  position: absolute;
+height: 2000px;
+width: 300px ;
+
+left: 300px;
+}
+.right-Sider{ 
+  position:absolute;
+  height: 2000px;
+  width: 400px ;
+ 
+ right: 200px;
+}
+.middle-section{
+  
+  position: flex;
+  justify-content: center;
+  margin-left: 800px;
+ 
+  height: 2000px;
+  background-color: rgb(245, 245, 245);
+}
+.lef-Sider-div0{
+  position : flex;
+  top: 10px;
+  width: 300px ;
+  height: 200px;
+  display: block;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  background-color: rgb(253, 251, 251);
+}
+.middle-section-div0{
+  width: 600px;
+  height: 400px;
+ 
+ 
+  
+}
+.card border-success mb-3{
+  color: black;
+}
+.right-0{
+  margin-bottom: 15px;
+  width: 400px ;
+  height: 650px;
+  border-radius: 10px;
+  background-color: rgb(253, 251, 251);
+ 
+}
+.card{
+  position: flex;
+  display: inline-block;
+}
+
+  
+
